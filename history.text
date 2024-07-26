@@ -1,0 +1,51 @@
+    1  # Question 1
+    2  Question 1, What is the purpose of the 1s command?
+    3  #Answer
+    4  ubuntu@:~$ 1s
+    5  1s -1rh
+    6  pwd
+    7  1s -1rh
+    8  ubuntu
+    9  cd 
+   10  cd C:\Users\OEM\git-basic-exercises
+   11  cdC:/Users/OEM/git-basic-exercises
+   12  cd
+   13  cd ~\Desktop\git-basic-exercises
+   14  cd C:\Users\OEM\git-basic-exercises
+   15  ls
+   16  cd \git-basic-exercises
+   17  cat README.MD
+   18  git status
+   19  nano README.MD 
+   20  git status
+   21  git add README.MD
+   22  git commit -m "third commit"
+   23  git log
+   24  q
+   25  git checkout e938d484dcc44e2b5804d6fbf155a54655cc0354
+   26  cat README.MD
+   27  git checkout main
+   28  git checkout master
+   29  cat README.MD
+   30  git branch
+   31  git branch milkshake-flavours
+   32  get branch
+   33  git branch
+   34  nano milkshake.md
+   35  git status
+   36  git add milkshake.md
+   37  git commit -m " added inital flavours"
+   38  git checkout
+   39  git checkout milkshake-flavours
+   40  nano milkshakes.md
+   41  git status
+   42  git add milkshake.md
+   43  git add milkshakes.md
+   44  git commit -m "added inital flavours"
+   45  git log
+   46  git checkout master
+   47  git branch history
+   48  git log
+   49  git branch
+   50  histoy> history.txt
+   51  history > history.text
